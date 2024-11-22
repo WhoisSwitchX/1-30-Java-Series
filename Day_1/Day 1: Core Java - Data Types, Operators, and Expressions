@@ -1,1 +1,27 @@
+package day1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		byte b = 12;
+		short s = 123;
+		int i = 1234;
+		long l = 12365478963l;
+		float f = 12.3f;
+		double d = 12.34;
+		char c = 'C';
+		boolean bo = true;
+		
+		System.out.println("byte: " + b);
+		System.out.println("short: " + s);
+		System.out.println("integer: " + i);
+		System.out.println("long: " + l);
+		System.out.println("float: " + f);
+		System.out.println("double: " + d);
+		System.out.println("character: " + c);
+		System.out.println("boolean: " + bo);
+	}
+
+}
 
